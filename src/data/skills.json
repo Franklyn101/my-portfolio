@@ -1,0 +1,48 @@
+{
+    "skills": [
+        {
+            "id": 1,
+            "link": "#",
+            "name": "Bootstrap",
+            "image": "images/bootstrap.jpg"
+        },
+        {
+            "id": 2,
+            "link": "#",
+            "name": "Tailwind CSS",
+            "image": "images/tailwind.jpg"
+        },
+        {
+            "id": 3,
+            "link": "#",
+            "name": "Php",
+            "image": "images/php.jpg"
+        },
+        {
+            "id": 4,
+            "link": "#",
+            "name": "Laravel",
+            "image": "images/laravel.jpg"
+        },
+        {
+            "id": 5,
+            "link": "#",
+            "name": "Javascript",
+            "image": "images/javascript.jpg"
+        },
+        {
+            "id": 6,
+            "link": "#",
+            "name": "Vue.js",
+            "image": "images/vue.jpg"
+        },
+       
+        {
+            "id": 9,
+            "link": "#",
+            "name": "Github",
+            "image": "images/github.jpg"
+        }
+        
+    ]
+}

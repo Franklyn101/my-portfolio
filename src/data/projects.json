@@ -1,0 +1,57 @@
+{
+    "projects": [
+        {
+            "id": 1,
+            "image": "images/countries.PNG",
+            "category": "challenge",
+            "title": "Rest countries Api",
+            "tags": ["Tailwind CSS", "API", "VUE.JS"],
+            "code_link": "https://github.com/",
+            "description": "<p>A project that searchs for any country you want fo find and filters countries according to continent</p>"
+        },
+        {
+            "id": 2,
+            "image": "/images/bookmark.PNG",
+            "category": "challenge",
+            "title": "Bookmark",
+            "tags": ["Tailwind CSS", "Vue.js"],
+            "live_link": "https://",
+            "description": "<p>bookmark landing page.</p>"
+        },
+        {
+            "id": 3,
+            "image": "/images/advice.PNG",
+            "category": "challenge",
+            "title": "Advice generator",
+            "tags": ["VUE.JS", "API", "css"],
+            "live_link": "http://",
+            "description": "<p></p>"
+        },
+        {
+            "id": 4,
+            "image": "/images/github.png",
+            "category": "challenge",
+            "title": "Github user search",
+            "tags": ["Javascript", "css"],
+            "live_link": "https://",
+            "description": "<p></p>"
+        },
+        {
+            "id": 5,
+            "image": "/images/linked.PNG",
+            "category": "Hackathon",
+            "title": "Getlinked",
+            "tags": ["Javascript", "css"],
+            "description": "<p></p>"
+        },
+        {
+            "id": 6,
+            "image": "/images/flyo.PNG",
+            "category": "challenge",
+            "title": "flyo themed",
+            "tags": ["Vue.js", "Tailwind CSS"],
+            "live_link": "https://",
+            "description": "<p></p>"
+        }
+    ]
+}
