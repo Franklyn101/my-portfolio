@@ -15,7 +15,7 @@
             "category": "challenge",
             "title": "Bookmark",
             "tags": ["Tailwind CSS", "Vue.js"],
-            "live_link": "https://",
+            "live_link": "https://bookmark-landing-page-sandy-ten.vercel.app/",
             "description": "<p>bookmark landing page.</p>"
         },
         {
@@ -24,7 +24,7 @@
             "category": "challenge",
             "title": "Advice generator",
             "tags": ["VUE.JS", "API", "css"],
-            "live_link": "http://",
+            "live_link": "https://advice-generator-mu-sepia.vercel.app/",
             "description": "<p></p>"
         },
         {
@@ -33,7 +33,7 @@
             "category": "challenge",
             "title": "Github user search",
             "tags": ["Javascript", "css"],
-            "live_link": "https://",
+            "live_link": "https://github-searchs.netlify.app/",
             "description": "<p></p>"
         },
         {
@@ -42,6 +42,7 @@
             "category": "Hackathon",
             "title": "Getlinked",
             "tags": ["Javascript", "css"],
+            "live_link": "https://getlinkedhacka.netlify.app/",
             "description": "<p></p>"
         },
         {
@@ -50,7 +51,16 @@
             "category": "challenge",
             "title": "flyo themed",
             "tags": ["Vue.js", "Tailwind CSS"],
-            "live_link": "https://",
+            "live_link": "https://flyo-dark-themed-landing-page.vercel.app/",
+            "description": "<p></p>"
+        },
+        {
+            "id": 7,
+            "image": "/images/moon.PNG",
+            "category": "challenge",
+            "title": "Go to space",
+            "tags": ["HTML", "CSS", "Javascript"],
+            "live_link": "https://goto-space.netlify.app/",
             "description": "<p></p>"
         }
     ]

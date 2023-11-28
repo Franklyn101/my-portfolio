@@ -9,7 +9,7 @@ import LinkButton from "@/components/LinkButton.vue";
             <div class="grid grid-cols-1">
                 <div class="bg-gradient-to-r from-sky-500 to-indigo-700 dark:from-slate-800 dark:via-slate-900 dark:to-slate-800 shadow-md rounded-lg py-7 px-5 md:py-14 md:px-20 flex flex-col items-center justify-center relative">
                     <h2 class="font-medium md:font-semibold text-2xl md:text-4xl text-center text-white tracking-wide mb-5 md:mb-10">I am available for project based or part time offers!</h2>
-                    <LinkButton target="_blank" link="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=dfahimanzam@gmail.com&amp;&amp;su=Need to disscuss with Mr. Fahim&amp;body=Hello, I need to talk about a project" class="px-5 py-3 text-md md:text-lg">
+                    <LinkButton target="_blank" link="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=dfranklyninomam@gmail.com&amp;&amp;su=Need to disscuss with Mr. Franklyn&amp;body=Hello, I need to talk about a project" class="px-5 py-3 text-md md:text-lg">
                         <span class="dark:tracking-wide">Hire Me</span>
                         <template #icon>
                             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="h-5 w-5 md:w-6 m:h-6">

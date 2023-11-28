@@ -19,7 +19,7 @@ let currentTab = ref(1);
             <div class="grid grid-cols-1 md:grid-cols-12 gap-10">
                 <div class="md:col-span-5 flex justify-center items-start">
                     <div class="relative">
-                        <img class="w-full h-[30rem] rounded-lg md:w-[400px] border-8 border-slate-300 dark:border-white  shadow-md" src="/images/WhatsApp Image 2023-10-13 at 11.56.52_d0bdc418.jpg" alt="" />
+                        <img class="w-full h-[25rem] object-cover rounded-lg md:w-[400px] border-8 border-slate-300 dark:border-white  shadow-md" src="/images/WhatsApp Image 2023-10-13 at 11.56.52_d0bdc418.jpg" alt="" />
                         <div class="absolute w-full md:w-[400px] h-[400px] bg-primary-400 border-8 border-slate-300 dark:border-white rounded-lg -z-10 bottom-5 right-6 hidden lg:block shadow-md"></div>
                     </div>
                 </div>
@@ -79,7 +79,7 @@ let currentTab = ref(1);
                                     <p>I am always open to learning new technologies and build new things that will shape the business of my clients.</p>
                                 </div>
 
-                                <a href="" target="_blank" class="text-primary-500 hover:text-primary-700 dark:text-primary-400 dark:hover:text-primary-300 font-medium flex items-center justify-start w-fit transition-all duration-300">
+                                <a href="https://docs.google.com/document/d/1kWhG5zXWIknFsIbdUEMln8lq-_h763etfWjwM96rPjQ/edit" target="_blank" class="text-primary-500 hover:text-primary-700 dark:text-primary-400 dark:hover:text-primary-300 font-medium flex items-center justify-start w-fit transition-all duration-300">
                                     <span class="mr-2">My Resume</span>
                                     <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
                                         <path stroke-linecap="round" stroke-linejoin="round" d="M17.25 8.25L21 12m0 0l-3.75 3.75M21 12H3" />
@@ -103,7 +103,7 @@ let currentTab = ref(1);
                                 </Experience>
                             </div>
                             <div v-else-if="currentTab === 4" class="dark:text-slate-200 tracking-wide space-y-5">
-                                <Education degree="BSc in Agriculture/Environmental Engineering" institute="Niger Delta University" timeline="February 2022 - Expected 2026" website="https://green.edu.bd/" />
+                                <Education degree="BSc in Agriculture/Environmental Engineering" institute="Niger Delta University" timeline="February 2022 - Expected 2026" website="" />
                             </div>
                         </transition>
                     </div>

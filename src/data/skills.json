@@ -3,8 +3,8 @@
         {
             "id": 1,
             "link": "#",
-            "name": "Bootstrap",
-            "image": "images/bootstrap.jpg"
+            "name": "HTML5",
+            "image": "/images/icons8-html-logo-48.png"
         },
         {
             "id": 2,
@@ -21,8 +21,8 @@
         {
             "id": 4,
             "link": "#",
-            "name": "Laravel",
-            "image": "images/laravel.jpg"
+            "name": "Angular",
+            "image": "/images/icons8-angularjs-48.png"
         },
         {
             "id": 5,

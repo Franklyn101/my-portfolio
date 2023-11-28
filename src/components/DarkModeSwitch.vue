@@ -7,14 +7,14 @@ let toggleDark = () => {
     isDark.value = !isDark.value;
     document.querySelector("html").classList.toggle("dark");
     if (!isDark.value) {
-        localStorage.setItem("fahim-portfolio-light", "true");
+        localStorage.setItem("frank-portfolio-light", "true");
     } else {
-        localStorage.removeItem("fahim-portfolio-light");
+        localStorage.removeItem("frank-portfolio-light");
     }
 };
 
 onMounted(() => {
-    if (localStorage.getItem("fahim-portfolio-light")) {
+    if (localStorage.getItem("frank-portfolio-light")) {
         isDark.value = false;
         document.querySelector("html").classList.remove("dark");
     } else {

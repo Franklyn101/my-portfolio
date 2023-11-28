@@ -1,6 +1,7 @@
 <script setup>
 import { useMobileNav } from "@/composables/mobile-nav";
 
+
 let { loadMobileNav } = useMobileNav();
 
 const year = new Date().getFullYear();
