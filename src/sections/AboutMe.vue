@@ -19,7 +19,7 @@ let currentTab = ref(1);
             <div class="grid grid-cols-1 md:grid-cols-12 gap-10">
                 <div class="md:col-span-5 flex justify-center items-start">
                     <div class="relative">
-                        <img class="w-full h-[25rem] object-cover rounded-lg md:w-[400px] border-8 border-slate-300 dark:border-white  shadow-md" src="/images/WhatsApp Image 2023-10-13 at 11.56.52_d0bdc418.jpg" alt="" />
+                        <img class="w-full h-[25rem] object-cover rounded-lg md:w-[400px] border-8 border-slate-300 dark:border-white  shadow-md" src="/images/profile.jpg" alt="" />
                         <div class="absolute w-full md:w-[400px] h-[400px] bg-primary-400 border-8 border-slate-300 dark:border-white rounded-lg -z-10 bottom-5 right-6 hidden lg:block shadow-md"></div>
                     </div>
                 </div>

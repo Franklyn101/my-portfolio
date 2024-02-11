@@ -95,7 +95,7 @@ let submitContactForm = () => {
             <div class="grid grid-cols-1 md:grid-cols-12 gap-10 dark:text-slate-300 tracking-wide">
                 <div class="md:col-span-5">
                     <h3 class="font-medium text-3xl mb-2 dark:text-white">Quick Contact</h3>
-                    <p class="text-lg text-slate-600 dark:text-slate-300">Don't like forms? Then whats app me! <a href="https://wa.me/+8801727659333" target="_blank" class="font-medium text-secondary-500 hover:text-secondary-600 dark:text-secondary-300 dark:hover:text-secondary-400 transition-all duration-300">click here</a></p>
+                    <p class="text-lg text-slate-600 dark:text-slate-300">Don't like forms? Then whats app me! <a href="https://wa.me/+2348104583259" target="_blank" class="font-medium text-secondary-500 hover:text-secondary-600 dark:text-secondary-300 dark:hover:text-secondary-400 transition-all duration-300 ">click here</a></p>
                     <ul class="mt-12 space-y-8">
                         <li class="flex items-center space-x-4">
                             <div>

@@ -7,7 +7,7 @@
             "title": "Rest countries Api",
             "tags": ["Tailwind CSS", "API", "VUE.JS"],
             "code_link": "https://github.com/",
-            "description": "<p>A project that searchs for any country you want fo find and filters countries according to continent</p>"
+            "description": "<p>A project that searchs for any country you want fo find and filters countries according to continent.i Used  vue.JS framework to pull data from the REST Countries API.</p>"
         },
         {
             "id": 2,
@@ -16,7 +16,7 @@
             "title": "Bookmark",
             "tags": ["Tailwind CSS", "Vue.js"],
             "live_link": "https://bookmark-landing-page-sandy-ten.vercel.app/",
-            "description": "<p>bookmark landing page.</p>"
+            "description": "<p>This challenge will really test your layout skills. There are also areas that will require some JavaScript, such as the tabbed features section and the FAQ accordion..</p>"
         },
         {
             "id": 3,
@@ -25,7 +25,7 @@
             "title": "Advice generator",
             "tags": ["VUE.JS", "API", "css"],
             "live_link": "https://advice-generator-mu-sepia.vercel.app/",
-            "description": "<p></p>"
+            "description": "<p>The perfect project if you're learning how to interact with 3rd-party APIs. This challenge uses the Advice Slip API to generate random quotes of advice.</p>"
         },
         {
             "id": 4,
@@ -34,7 +34,7 @@
             "title": "Github user search",
             "tags": ["Javascript", "css"],
             "live_link": "https://github-searchs.netlify.app/",
-            "description": "<p></p>"
+            "description": "<p>In this project, i used the GitHub users API to pull profile data and display it. It's a great challenge if you're looking to practice working with a 3rd-party API.</p>"
         },
         {
             "id": 5,
@@ -43,7 +43,7 @@
             "title": "Getlinked",
             "tags": ["Javascript", "css"],
             "live_link": "https://getlinkedhacka.netlify.app/",
-            "description": "<p></p>"
+            "description": "<p>this was hackathon challenge to build the getlinked hr website</p>"
         },
         {
             "id": 6,
@@ -52,7 +52,7 @@
             "title": "flyo themed",
             "tags": ["Vue.js", "Tailwind CSS"],
             "live_link": "https://flyo-dark-themed-landing-page.vercel.app/",
-            "description": "<p></p>"
+            "description": "<p>This design has some nice layout challenges in it. A perfect training ground to practice your Flexbox and/or Grid skills.</p>"
         },
         {
             "id": 7,
@@ -61,7 +61,7 @@
             "title": "Go to space",
             "tags": ["HTML", "CSS", "Javascript"],
             "live_link": "https://goto-space.netlify.app/",
-            "description": "<p></p>"
+            "description": "<p>This project is a fun collaboration with Scrimba and Kevin Powell! If you like, you can follow along and watch Kevin complete the project on Scrimba. Lots to learn!</p>"
         }
     ]
 }
