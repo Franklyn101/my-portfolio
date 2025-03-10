@@ -79,7 +79,7 @@ let currentTab = ref(1);
                                     <p>I am always open to learning new technologies and build new things that will shape the business of my clients.</p>
                                 </div>
 
-                                <a href="https://docs.google.com/document/d/1kWhG5zXWIknFsIbdUEMln8lq-_h763etfWjwM96rPjQ/edit" target="_blank" class="text-primary-500 hover:text-primary-700 dark:text-primary-400 dark:hover:text-primary-300 font-medium flex items-center justify-start w-fit transition-all duration-300">
+                                <a href="https://docs.google.com/document/d/1OH7YsTyAKNh035Q-Si6wL4rXiLX-TqBc/edit?usp=sharing&ouid=112289461981407767981&rtpof=true&sd=true" target="_blank" class="text-primary-500 hover:text-primary-700 dark:text-primary-400 dark:hover:text-primary-300 font-medium flex items-center justify-start w-fit transition-all duration-300">
                                     <span class="mr-2">My Resume</span>
                                     <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
                                         <path stroke-linecap="round" stroke-linejoin="round" d="M17.25 8.25L21 12m0 0l-3.75 3.75M21 12H3" />
