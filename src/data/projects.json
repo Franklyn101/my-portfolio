@@ -2,21 +2,21 @@
     "projects": [
         {
             "id": 1,
-            "image": "images/countries.PNG",
-            "category": "challenge",
-            "title": "Rest countries Api",
-            "tags": ["Tailwind CSS", "API", "VUE.JS"],
+            "image": "/images/shopbot.png",
+            "category": "job",
+            "title": "shotbot africa, mauritius",
+            "tags": ["Tailwind CSS", "API", "angular"],
             "code_link": "https://github.com/",
-            "description": "<p>A project that searchs for any country you want fo find and filters countries according to continent.i Used  vue.JS framework to pull data from the REST Countries API.</p>"
+            "description": "<p>Shopbot Africa is a food and grocery delivery platform operating in Nigeria and Mauritius. Through its mobile app, users can order meals, drinks, and groceries from a variety of restaurants and shops, with deliveries made directly to their doorstep</p>"
         },
         {
             "id": 2,
-            "image": "/images/bookmark.PNG",
-            "category": "challenge",
-            "title": "Bookmark",
-            "tags": ["Tailwind CSS", "Vue.js"],
-            "live_link": "https://bookmark-landing-page-sandy-ten.vercel.app/",
-            "description": "<p>This challenge will really test your layout skills. There are also areas that will require some JavaScript, such as the tabbed features section and the FAQ accordion..</p>"
+            "image": "/images/assetmgt.png",
+            "category": "job",
+            "title": "charterhouse-management",
+            "tags": ["Tailwind CSS", "Next js"],
+            "live_link": "https://github.com/Ebiperre/charterhouse-management",
+            "description": "<p>charterhouse management is an asset management system for all kind of assets with a full crud functionality</p>"
         },
         {
             "id": 3,
@@ -62,6 +62,15 @@
             "tags": ["HTML", "CSS", "Javascript"],
             "live_link": "https://goto-space.netlify.app/",
             "description": "<p>This project is a fun collaboration with Scrimba and Kevin Powell! If you like, you can follow along and watch Kevin complete the project on Scrimba. Lots to learn!</p>"
+        },
+         {
+            "id": 8,
+            "image": "images/countries.PNG",
+            "category": "challenge",
+            "title": "Rest countries Api",
+            "tags": ["Tailwind CSS", "API", "VUE.JS"],
+            "code_link": "https://github.com/",
+            "description": "<p>A project that searchs for any country you want fo find and filters countries according to continent.i Used  vue.JS framework to pull data from the REST Countries API.</p>"
         }
     ]
 }
